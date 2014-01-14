@@ -1,0 +1,42 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or vendor/assets/stylesheets of plugins, if any, can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the top of the
+ * compiled file, but it's generally better to create a new file per style scope.
+ *
+
+ *= require bootstrap
+ *= require sb-admin
+ *= require css/font-awesome.min
+ *= require_self
+ */
+
+main {
+	margin-top: 40px;
+	h1 small, tr small {
+		visibility:hidden;
+	}
+	h1:hover small, tr:hover small {
+		visibility:visible;
+	}
+	.form-horizontal {
+		padding-top: 20px;
+		.checkbox {
+			font-weight: normal;
+			input[type="checkbox"] {
+				width: auto;
+				padding: 0px;
+				margin-top: -7px;
+			}
+		}
+	}
+}
+
+img {
+	@extend .img-responsive;
+	margin: 0 auto;
+}

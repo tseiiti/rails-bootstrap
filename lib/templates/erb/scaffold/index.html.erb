@@ -1,0 +1,31 @@
+<h1>Listing <%= plural_table_name %>
+  <small>
+    <%%= link_to 'new <%= human_name.downcase %>', new_<%= singular_table_name %>_path %>
+  </small>
+</h1>
+
+<div class="table-responsive">
+  <table class="table table-hover table-striped tablesorter">
+    <thead>
+      <tr>
+<% attributes.reject(&:password_digest?).each do |attribute| -%>
+<th><%= attribute.human_name %> <i class="fa fa-sort"></i></th>
+<% end -%>
+        <th></th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <%% @<%= plural_table_name %>.each do |<%= singular_table_name %>| %>
+      <tr>
+<% attributes.reject(&:password_digest?).each do |attribute| -%>
+<td><%%= <%= singular_table_name %>.<%= attribute.name %> %></td>
+<% end -%>
+      <td><small><%%= link_to 'show', <%= singular_table_name %> %> |
+        <%%= link_to 'edit', edit_<%= singular_table_name %>_path(<%= singular_table_name %>) %> |
+        <%%= link_to 'destroy', <%= singular_table_name %>, method: :delete, data: { confirm: 'Are you sure?' } %></small></td>
+      </tr>
+      <%% end %>
+    </tbody>
+  </table>
+</div>

@@ -1,0 +1,7 @@
+= simple_form_for @group do |f|
+	= f.error_notification
+
+	= f.input :name
+	= f.input :status, inline_label: 'active' #, :wrapper => :inline_checkbox
+
+	= render 'util/button_submit', f: f

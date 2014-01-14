@@ -1,0 +1,29 @@
+%h1
+	Listing groups
+	%small
+		= link_to 'New Group', new_group_path
+
+.table-responsive
+	%table.table.table-hover.table-striped.tablesorter
+		%thead
+			%tr
+				%th
+					Name
+					%i.fa.fa-sort
+				%th
+					Status
+					%i.fa.fa-sort
+				%th
+
+		%tbody
+			- @groups.each do |group|
+				%tr
+					%td= group.name
+					%td= group.status
+					%td
+						%small
+							= link_to 'Show', group
+							\|
+							= link_to 'Edit', edit_group_path(group)
+							\|
+							= link_to 'Destroy', group, :method => :delete, :data => { :confirm => 'Are you sure?' }

@@ -1,0 +1,1044 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"st",
+				"status"
+			],
+			[
+				"un",
+				"unless	unless … end"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"p",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"a",
+				"text-align"
+			],
+			[
+				"arc",
+				"archives"
+			],
+			[
+				"A",
+				"Archive"
+			],
+			[
+				"artic",
+				"article"
+			],
+			[
+				"AR",
+				"articles"
+			],
+			[
+				"pho",
+				"photo"
+			],
+			[
+				"pa",
+				"params"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<div class=\"form-group boolean optional group_status\">\n	<label class=\"boolean optional col-lg-2 control-label\" for=\"group_status\">Status</label>\n	<div class=\"col-lg-6\">\n		<input name=\"group[status]\" type=\"hidden\" value=\"0\">\n		<label class=\"checkbox\">\n			<input checked=\"checked\" class=\"boolean optional form-control\" id=\"group_status\" name=\"group[status]\" type=\"checkbox\" value=\"1\">\n		</label>\n	</div>\n</div>",
+			"settings":
+			{
+				"buffer_size": 408,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Seiiti.Seiiti-PC/.ssh/id_rsa.pub",
+			"settings":
+			{
+				"buffer_size": 399,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"sy:j",
+				"Set Syntax: JSON"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ter",
+				"Preferences: Terminal Key Bindings – User"
+			],
+			[
+				"termi",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: link_to (nested path)"
+			],
+			[
+				"",
+				"Snippet: form_tag"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 385.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"ruby -v",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"--help",
+			"rails new MyMultiTest",
+			"dir",
+			"echo ''''áfasdflkj"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/app_rails/System/app/assets/stylesheets/application.css.scss",
+		"/D/app_rails/System/app/controllers/application_controller.rb",
+		"/D/app_rails/System/README.rdoc",
+		"/D/app_rails/System/app/views/groups/_form.html.haml",
+		"/C/Users/Seiiti.Seiiti-PC/.ssh/id_rsa.pub",
+		"/D/app_rails/System/app/views/devise/sessions/new.html.haml",
+		"/D/app_rails/System/Gemfile",
+		"/D/app_rails/System/app/views/util/_button_submit.html.haml",
+		"/D/app_rails/System/app/views/groups/new.html.haml",
+		"/D/app_rails/System/app/views/groups/_icons.html.erb",
+		"/D/app_rails/System/app/views/groups/_x.html.erb",
+		"/D/Downloads/vrswin090207/files.txt",
+		"/D/Downloads/vrswin090207/readme.rd.txt",
+		"/D/Downloads/vrswin090207/tests/test.rb",
+		"/D/Downloads/vrswin090207/readme.rd.jp",
+		"/D/app_rails/System/app/views/layouts/_navigation.html.haml",
+		"/D/app_rails/System/app/views/layouts/_navigation_links.html.haml",
+		"/D/app_rails/System/lib/templates/haml/scaffold/_form.html.haml",
+		"/D/app_rails/System/app/controllers/groups_controller.rb",
+		"/D/app_rails/System/lib/templates/haml/scaffold/show.html.haml",
+		"/D/app_rails/System/app/views/groups/show.html.haml",
+		"/D/app_rails/System/app/models/group.rb",
+		"/D/app_rails/System3/app/views/groups/_form.html.erb",
+		"/D/app_rails/System/lib/templates/haml/scaffold/edit.html.haml",
+		"/D/app_rails/System/lib/templates/haml/scaffold/new.html.haml",
+		"/D/app_rails/System3/app/views/util/_button_submit.html.erb",
+		"/D/app_rails/System/app/assets/javascripts/application.js",
+		"/D/app_rails/System3/app/assets/stylesheets/application.css.scss",
+		"/D/app_rails/System/app/assets/javascripts/application.js.coffee",
+		"/D/app_rails/System/app/views/layouts/_messages.html.haml",
+		"/D/app_rails/System/app/views/layouts/application.html.haml",
+		"/D/app_rails/System3/app/views/layouts/_messages.html.erb",
+		"/D/app_rails/System3/app/views/layouts/application.html.erb",
+		"/D/app_rails/System/lib/templates/haml/scaffold/index.html.haml",
+		"/D/app_rails/System/app/views/groups/index.html.haml",
+		"/D/app_rails/System3/lib/templates/erb/scaffold/index.html.erb",
+		"/D/app_rails/System3/README.rdoc",
+		"/D/app_rails/System/config/routes.rb",
+		"/D/app_rails/System/lib/xtemplates/haml/scaffold/templates/_form.html.haml",
+		"/D/app_rails/System/lib/templates/haml/scaffold/x_form.html.haml",
+		"/D/app_rails/System/lib/templates/erb/scaffold/_form.html.erb",
+		"/D/app_rails/System/lib/templates/haml/scaffold/templates/_form.html.haml",
+		"/D/app_rails/System/config/application.rb",
+		"/D/Downloads/haml-rails-master/lib/haml-rails.rb",
+		"/D/Downloads/haml-rails-master/lib/haml-rails/version.rb",
+		"/D/Downloads/haml-rails-master/lib/generators/haml/controller/controller_generator.rb",
+		"/D/Downloads/haml-rails-master/lib/generators/haml/controller/templates/view.html.haml",
+		"/D/app_rails/System/app/assets/stylesheets/application.css",
+		"/D/Programas/Ambiente e Desenvolvimento/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/app_rails/System4/Gemfile",
+		"/D/app_rails/System3/lib/templates/erb/scaffold/_form.html.erb",
+		"/D/app_rails/System3/lib/templates/erb/scaffold/edit.html.erb",
+		"/D/app_rails/System3/lib/templates/erb/scaffold/new.html.erb",
+		"/D/app_rails/System3/app/views/groups/new.html.erb",
+		"/D/app_rails/System3/app/controllers/application_controller.rb",
+		"/C/Users/Seiiti.Seiiti-PC/Desktop/Rails objects methods.txt",
+		"/D/app_rails/System3/app/views/groups/edit.html.erb",
+		"/D/app_rails/System3/app/views/groups/index.html.erb",
+		"/D/app_rails/System3/app/views/layouts/_navigation.html.erb",
+		"/D/app_rails/System3/vendor/assets/stylesheets/bootstrap.css",
+		"/D/app_rails/System3/app/views/devise/confirmations/new.html.erb",
+		"/D/app_rails/System3/app/views/devise/passwords/new.html.erb",
+		"/D/app_rails/System3/Gemfile",
+		"/D/app_rails/System3/db/migrate/20140104202448_devise_create_users.rb",
+		"/D/app_rails/System3/app/models/user.rb",
+		"/D/app_rails/System3/app/views/devise/registrations/edit.html.erb",
+		"/D/app_rails/System3/config/locales/devise.en.yml",
+		"/D/app_rails/System3/config/initializers/devise.rb",
+		"/D/app_rails/System3/app/views/devise/sessions/new.html.erb",
+		"/D/app_rails/System3/app/views/devise/registrations/new.html.erb",
+		"/D/app_rails/System/app/views/layouts/_navigation.html.erb",
+		"/D/app_rails/System/db/migrate/20131229141513_create_users.rb",
+		"/D/app_rails/System/db/migrate/20140104192014_add_devise_to_users.rb",
+		"/D/app_rails/System2/README.rdoc",
+		"/D/app_rails/System2/app/views/groups/index.html.erb",
+		"/D/app_rails/System2/lib/templates/erb/scaffold/index.html.erb",
+		"/D/app_rails/System/app/views/users/index.html.erb",
+		"/D/app_rails/System2/app/views/layouts/application.html.erb",
+		"/D/app_rails/System2/app/controllers/application_controller.rb",
+		"/D/app_rails/System2/app/assets/stylesheets/application.css.scss",
+		"/D/app_rails/System2/app/views/groups/_form.html.erb",
+		"/D/app_rails/System2/config/initializers/simple_form_bootstrap.rb",
+		"/D/app_rails/System2/app/models/group.rb",
+		"/D/app_rails/System2/lib/templates/erb/scaffold/_form.html.erb",
+		"/D/app_rails/System/app/views/groups/_form.html.erb",
+		"/D/app_rails/System/app/assets/stylesheets/framework_and_overrides.css.scss",
+		"/D/app_rails/System/lib/templates/erb/scaffold/index.html.erb",
+		"/D/app_rails/System2/app/assets/stylesheets/application.css",
+		"/D/app_rails/System2/app/assets/javascripts/application.js",
+		"/D/app_rails/System2/Gemfile",
+		"/D/app_rails/System2/config/routes.rb",
+		"/D/app_rails/System2/app/views/layouts/_navigation_links.html.erb",
+		"/D/app_rails/System2/app/views/layouts/_messages.html.erb",
+		"/D/app_rails/System2/app/views/layouts/_navigation.html.erb",
+		"/D/app_rails/railsgirls/README.rdoc",
+		"/D/app_rails/railsgirls/app/views/welcome/index.html.erb",
+		"/D/app_rails/railsgirls/config/routes.rb",
+		"/D/app_rails/railsgirls/app/views/ideas/index.html.erb",
+		"/D/app_rails/railsgirls/config/locales/devise.en.yml",
+		"/D/app_rails/railsgirls/config/locales/devise.pt-BR.yml",
+		"/D/app_rails/railsgirls/config/locales/rails.en.yml",
+		"/D/app_rails/railsgirls/Gemfile",
+		"/D/app_rails/railsgirls/config/application.rb",
+		"/D/app_rails/railsgirls/config/locales/pt-BR.yml",
+		"/D/app_rails/railsgirls/app/views/layouts/application.html.erb",
+		"/D/app_rails/railsgirls/db/migrate/20140102231209_devise_create_users.rb",
+		"/D/app_rails/railsgirls/config/environments/development.rb",
+		"/D/app_rails/railsgirls/app/uploaders/picture_uploader.rb",
+		"/D/app_rails/railsgirls/app/views/ideas/show.html.erb",
+		"/D/app_rails/railsgirls/app/controllers/ideas_controller.rb",
+		"/D/app_rails/railsgirls/app/views/comments/_form.html.erb",
+		"/D/app_rails/railsgirls/app/models/idea.rb",
+		"/D/app_rails/railsgirls/app/views/ideas/_form.html.erb",
+		"/D/app_rails/railsgirls/app/assets/stylesheets/application.css",
+		"/D/app_rails/System/vendor/bundle/ruby/1.9.1/gems/sass-rails-4.0.1/test/fixtures/alternate_config_project/app/assets/stylesheets/subfolder/another_plain.css",
+		"/D/app_rails/System/app/models/parameter.rb",
+		"/D/app_rails/System/app/helpers/application_helper.rb",
+		"/D/app_rails/System/app/controllers/parameters_controller.rb",
+		"/D/app_rails/System/app/views/parameter_globals/index.json.jbuilder",
+		"/D/app_rails/System/app/views/parameters/index.html.erb",
+		"/D/app_rails/System/app/views/parameter_globals/index.html.erb",
+		"/D/app_rails/System/app/views/layouts/_navigation_links.html.erb",
+		"/D/app_rails/System/app/views/parameter_globals/_form.html.erb",
+		"/D/app_rails/System/app/views/parameters/show.html.erb",
+		"/D/app_rails/System/db/migrate/20140101143416_create_parameters.rb",
+		"/D/app_rails/System/db/migrate/20140102002424_ajuste.rb",
+		"/D/app_rails/System/app/views/parameters/_form.html.erb",
+		"/D/app_rails/System/app/models/user.rb"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">",
+			"\"></i> ",
+			"\\.fa-.*",
+			"<li><i class=\".",
+			"\\.fa-.*",
+			":",
+			"(\\.fa-.*):",
+			"obj",
+			":class =>",
+			"\"System\"",
+			"sm",
+			"table",
+			"p",
+			"@media (min-width: 1200px)",
+			"confirmation_k",
+			"invalid: email or password",
+			"authentication_keys",
+			"fa-",
+			"Destroy",
+			"Edit",
+			"Show",
+			"type",
+			"Destroy",
+			"Edit",
+			"user",
+			"<td>",
+			"Home",
+			"Parameters",
+			"Users",
+			"ctrl+alt",
+			"up",
+			"parameter_type:references",
+			"act",
+			"group",
+			"obj",
+			"edit",
+			"group",
+			"h6",
+			"span",
+			"small",
+			"reset",
+			"component",
+			"reset",
+			"number",
+			"Numbers",
+			"number",
+			"wrapper",
+			"control-group",
+			"inputs",
+			"simple",
+			"check",
+			"new",
+			"\\t11\\d\\d\\d\\d\\d\\d\\d\\d",
+			"\\d\\d\\d",
+			";",
+			"C",
+			"photo",
+			"gallery",
+			"photo",
+			"puts",
+			"icon",
+			"photo",
+			"addPhoto",
+			"archive",
+			" }",
+			"format.html { ",
+			"clear",
+			"relative",
+			"}\n",
+			", class: 'menu_item'",
+			"forum",
+			"gallery",
+			"photo",
+			"gallery",
+			"Photo",
+			"photo",
+			"Photo",
+			"photo",
+			"Photo",
+			"photo",
+			"jquery-upload/",
+			"photos",
+			"products",
+			"assets",
+			" :",
+			"t.",
+			"photo",
+			"gallery",
+			"galleries",
+			"manual",
+			"Manual",
+			"manual",
+			"Manual",
+			"manual",
+			"manuals",
+			"manual",
+			"Manual",
+			"manual",
+			"Manual",
+			"manual",
+			"Manual",
+			"manual",
+			"find_manual",
+			"manual",
+			"Manual",
+			"manual",
+			"Manual",
+			"manual",
+			"Manual",
+			"manual",
+			"3media=\"all\"",
+			"user agent stylesheet",
+			"3media=\"all\"",
+			"# ",
+			"\n#",
+			"# ",
+			"# $ ->\n",
+			"# ",
+			"//",
+			"submit",
+			"skip_for_audio",
+			"asset.asset",
+			"comments",
+			"  \n",
+			"object",
+			"\"",
+			"@article",
+			"xxx"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"@o",
+			"\\n",
+			"",
+			"icon",
+			"Archive",
+			"archive",
+			"",
+			"#",
+			"'",
+			"photo",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								408,
+								408
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Seiiti.Seiiti-PC/.ssh/id_rsa.pub",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								399,
+								399
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 154.0
+	},
+	"project": "system.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"confapp",
+				"railsgirls\\config\\application.rb"
+			],
+			[
+				"layapp",
+				"railsgirls\\app\\views\\layouts\\application.html.erb"
+			],
+			[
+				"appli",
+				"railsgirls\\config\\application.rb"
+			],
+			[
+				"confro",
+				"railsgirls\\config\\routes.rb"
+			],
+			[
+				"dev",
+				"railsgirls\\config\\environments\\development.rb"
+			],
+			[
+				"g",
+				"railsgirls\\Gemfile"
+			],
+			[
+				"giindex",
+				"railsgirls\\app\\views\\ideas\\index.html.erb"
+			],
+			[
+				"gemf",
+				"railsgirls\\Gemfile"
+			],
+			[
+				"picture",
+				"railsgirls\\app\\uploaders\\picture_uploader.rb"
+			],
+			[
+				"commform",
+				"railsgirls\\app\\views\\comments\\_form.html.erb"
+			],
+			[
+				"idcon",
+				"railsgirls\\app\\controllers\\ideas_controller.rb"
+			],
+			[
+				"idesho",
+				"railsgirls\\app\\views\\ideas\\show.html.erb"
+			],
+			[
+				"confrou",
+				"railsgirls\\config\\routes.rb"
+			],
+			[
+				"ideshow",
+				"railsgirls\\app\\views\\ideas\\show.html.erb"
+			],
+			[
+				"viidefor",
+				"railsgirls\\app\\views\\ideas\\_form.html.erb"
+			],
+			[
+				"miderb",
+				"railsgirls\\app\\models\\idea.rb"
+			],
+			[
+				"gem",
+				"railsgirls\\Gemfile"
+			],
+			[
+				"acss",
+				"railsgirls\\app\\assets\\stylesheets\\application.css"
+			],
+			[
+				"ge",
+				"System\\Gemfile"
+			],
+			[
+				"aplcss",
+				"System\\vendor\\bundle\\ruby\\1.9.1\\gems\\sass-rails-4.0.1\\test\\fixtures\\alternate_config_project\\app\\assets\\stylesheets\\subfolder\\another_plain.css"
+			],
+			[
+				"not",
+				"app\\mailers\\notifier.rb"
+			],
+			[
+				"devb",
+				"dev.bat"
+			],
+			[
+				"coarco",
+				"app\\controllers\\articles_controller.rb"
+			],
+			[
+				"de",
+				"dev.bat"
+			],
+			[
+				"arsh",
+				"app\\views\\articles\\show.html.erb"
+			],
+			[
+				"ro",
+				"config\\routes.rb"
+			],
+			[
+				"en",
+				"config\\environments\\development.rb"
+			],
+			[
+				"envde",
+				"config\\environments\\development.rb"
+			],
+			[
+				"coco",
+				"app\\controllers\\comments_controller.rb"
+			],
+			[
+				"_co",
+				"app\\views\\comments\\_comment.html.erb"
+			],
+			[
+				"arco",
+				"app\\controllers\\articles_controller.rb"
+			],
+			[
+				"ar_f",
+				"app\\views\\articles\\_form.html.erb"
+			],
+			[
+				"moco",
+				"app\\models\\comment.rb"
+			],
+			[
+				"",
+				"app\\views\\articles\\show.html.erb"
+			],
+			[
+				"fail",
+				"app\\views\\comments\\fail_create.js.erb"
+			],
+			[
+				"cocre",
+				"app\\views\\comments\\create.js.erb"
+			],
+			[
+				"conew",
+				"app\\views\\comments\\new.js.erb"
+			],
+			[
+				"arnew",
+				"app\\views\\articles\\new.html.erb"
+			],
+			[
+				"new",
+				"app\\views\\articles\\new.html.erb"
+			],
+			[
+				"deba",
+				"dev.bat"
+			],
+			[
+				"vai",
+				"app\\views\\articles\\index.html.erb"
+			],
+			[
+				"viap",
+				"app\\views\\layouts\\application.html.erb"
+			],
+			[
+				"_f",
+				"app\\views\\users\\_form.html.erb"
+			],
+			[
+				"_fo",
+				"app\\views\\articles\\_form.html.erb"
+			],
+			[
+				"us_fo",
+				"app\\views\\users\\_form.html.erb"
+			],
+			[
+				"aphe",
+				"app\\helpers\\application_helper.rb"
+			],
+			[
+				"moar",
+				"app\\models\\article.rb"
+			],
+			[
+				"useco",
+				"app\\controllers\\users_controller.rb"
+			],
+			[
+				"aplico",
+				"app\\controllers\\application_controller.rb"
+			],
+			[
+				"arind",
+				"app\\views\\articles\\index.html.erb"
+			],
+			[
+				"ses",
+				"app\\models\\session.rb"
+			],
+			[
+				"se",
+				"db\\seeds.rb"
+			],
+			[
+				"rou",
+				"config\\routes.rb"
+			],
+			[
+				"seco",
+				"app\\controllers\\sessions_controller.rb"
+			],
+			[
+				"comne",
+				"app\\views\\comments\\new.html.erb"
+			],
+			[
+				"_c",
+				"app\\views\\comments\\_comment.html.erb"
+			],
+			[
+				"_a",
+				"app\\views\\articles\\_article.html.erb"
+			],
+			[
+				"laap",
+				"app\\views\\layouts\\application.html.erb"
+			],
+			[
+				"temp",
+				"lib\\tasks\\templates_copy.rake"
+			],
+			[
+				"mous",
+				"app\\models\\user.rb"
+			],
+			[
+				"commco",
+				"app\\controllers\\comments_controller.rb"
+			],
+			[
+				"lo",
+				"log\\development.log"
+			],
+			[
+				"devl",
+				"log\\development.log"
+			],
+			[
+				"deve",
+				"config\\environments\\development.rb"
+			],
+			[
+				"conenvi",
+				"config\\environment.rb"
+			],
+			[
+				"log",
+				"log\\development.log"
+			],
+			[
+				"arcon",
+				"app\\controllers\\articles_controller.rb"
+			],
+			[
+				"maileno",
+				"app\\mailers\\notifier.rb"
+			],
+			[
+				"arsho",
+				"app\\views\\articles\\show.html.erb"
+			],
+			[
+				"comcon",
+				"app\\controllers\\comments_controller.rb"
+			],
+			[
+				"arin",
+				"app\\views\\articles\\index.html.erb"
+			],
+			[
+				"_ar",
+				"app\\views\\articles\\_article.html.erb"
+			],
+			[
+				"_com",
+				"app\\views\\comments\\_comment.html.erb"
+			],
+			[
+				"logde",
+				"log\\development.log"
+			],
+			[
+				"s",
+				"db\\schema.rb"
+			],
+			[
+				"ared",
+				"app\\views\\articles\\edit.html.erb"
+			],
+			[
+				"use_f",
+				"app\\views\\users\\_form.html.erb"
+			],
+			[
+				"cate",
+				"app\\models\\category.rb"
+			],
+			[
+				"see",
+				"db\\seeds.rb"
+			],
+			[
+				"ar",
+				"app\\models\\article.rb"
+			],
+			[
+				"usco",
+				"app\\controllers\\users_controller.rb"
+			],
+			[
+				"us",
+				"app\\models\\user.rb"
+			],
+			[
+				"apco",
+				"app\\controllers\\application_controller.rb"
+			],
+			[
+				"cat",
+				"app\\models\\category.rb"
+			],
+			[
+				"arfo",
+				"app\\views\\articles\\_form.html.erb"
+			],
+			[
+				"sc",
+				"db\\schema.rb"
+			],
+			[
+				"sessto",
+				"config\\initializers\\session_store.rb"
+			],
+			[
+				"arc",
+				"app\\controllers\\articles_controller.rb"
+			],
+			[
+				"cc",
+				"app\\controllers\\comments_controller.rb"
+			],
+			[
+				"la",
+				"app\\views\\layouts\\application.html.erb"
+			],
+			[
+				"as",
+				"app\\views\\articles\\show.html.erb"
+			],
+			[
+				"ac",
+				"app\\controllers\\application_controller.rb"
+			],
+			[
+				"coc",
+				"app\\controllers\\comments_controller.rb"
+			],
+			[
+				"arf",
+				"app\\views\\articles\\_form.html.erb"
+			],
+			[
+				"used",
+				"app\\views\\users\\edit.html.erb"
+			],
+			[
+				"edi",
+				"app\\views\\articles\\edit.html.erb"
+			],
+			[
+				"usc",
+				"app\\controllers\\users_controller.rb"
+			],
+			[
+				"mig",
+				"db\\migrate\\20130923234245_rename_password_to_hashed_password.rb"
+			],
+			[
+				"com",
+				"app\\models\\comment.rb"
+			],
+			[
+				"mi",
+				"db\\migrate\\20130923215221_create_join_table_article_category.rb"
+			],
+			[
+				"migr",
+				"db\\migrate\\20130923215133_create_categories.rb"
+			],
+			[
+				"use",
+				"app\\models\\user.rb"
+			],
+			[
+				"a",
+				"app\\models\\article.rb"
+			],
+			[
+				"add",
+				"db\\migrate\\20130922215407_add_user_id_to_articles.rb"
+			],
+			[
+				"pr",
+				"app\\models\\profile.rb"
+			],
+			[
+				"art",
+				"app\\controllers\\articles_controller.rb"
+			],
+			[
+				"index",
+				"public\\jquery\\index.html"
+			],
+			[
+				"ind",
+				"public\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\app_rails\\MultiFileUploadDemo\\MultiFileUploadDemo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"u",
+				"User"
+			],
+			[
+				"ar",
+				"Article"
+			]
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

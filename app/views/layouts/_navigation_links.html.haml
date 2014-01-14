@@ -1,0 +1,2 @@
+- ActiveRecord::Base.connection.tables.each do |t|
+	= content_tag :li, link_to(t.upcase, root_path + t) unless t.in? %w(schema_migrations users)

@@ -1,0 +1,9 @@
+.form-group
+	.col-lg-offset-2.col-lg-2
+		.btn-group
+			= f.submit(class: 'btn btn-primary')
+			%button.btn.btn-primary.dropdown-toggle{ type: 'button', 'data-toggle' => 'dropdown' }
+				%span.caret
+			%ul.dropdown-menu
+				= content_tag :li, link_to('Show', f.object) if params[:action].in? %w(update edit)
+				= content_tag :li, link_to('Back', '/' + f.object_name.pluralize)

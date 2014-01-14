@@ -1,0 +1,13 @@
+
+instalar gems simple_form, devise, haml
+copiar vendor/assets
+rails g simple_form:install --bootstrap
+rails g devise:install
+rails g devise user
+configurar initializers/simple_form_bootstrap.rb
+atualizar e corrigir css e js
+copiar lib/templates, layouts, util/
+
+rails g scaffold group name:string status:boolean
+
+rails g devise:views
